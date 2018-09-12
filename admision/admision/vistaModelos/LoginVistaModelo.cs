@@ -13,7 +13,7 @@ namespace admision.vistaModelos
         public ICommand btnAceptar { get; set; }
         public LoginVistaModelo()
         {
-            this.indicador = true;
+            this.indicador = false;
         }
 
         
