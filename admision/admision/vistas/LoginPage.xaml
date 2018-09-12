@@ -32,7 +32,7 @@
                 
             </ActivityIndicator>
             <Button 
-                Command="{Binding btnAceptar}"
+                Command="{Binding aceptarCommand}"
                 Text="ACEPTAR"
                 BackgroundColor="#0072BD"
                 FontSize="18"
